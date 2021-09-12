@@ -20,8 +20,8 @@ Write a function that:
  
 ```JS
 // Example
-// Calls to the fetchColors function are handled with
-// an async channel.
+// Calls to the fetchColors function are handled on an async thread.
+
 const result = await fetchColors({
   name: 'Almond',
 });
