@@ -20,7 +20,9 @@ Write a function that:
  
 ```JS
 // Example
-const result = fetchColors({
+// Calls to the fetchColors function are handled with
+// an async channel.
+const result = await fetchColors({
   name: 'Almond',
 });
 
