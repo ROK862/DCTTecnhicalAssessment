@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicotejera/js-fun.git"
+    "url": "git+https://github.com/ROK862/DCTTecnhicalAssessment.git"
   },
   "author": "Robbins Jefferson Kariseb, ALB Harvard.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicotejera/js-fun/issues"
+    "url": "https://github.com/ROK862/DCTTecnhicalAssessment/issues"
   },
-  "homepage": "https://github.com/nicotejera/js-fun#readme",
+  "homepage": "https://github.com/ROK862/DCTTecnhicalAssessment#readme",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
