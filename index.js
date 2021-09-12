@@ -19,6 +19,11 @@ const ENDPOINT = 'https://nt-cdn.s3.amazonaws.com/colors.json';
  */
  const fetchColors = async ({ name, hex, compName, compHex }) => { 
   const res = fetch(ENDPOINT);
+  /*
+   * Your code for filtering against datasets comes here.
+   * Please return a filtered json, or promise from fetch function.
+   * Run "npm test" to test your results before making your commit.
+   */
 
   return res;
 };
