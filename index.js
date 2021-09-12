@@ -17,6 +17,7 @@ const ENDPOINT = 'https://nt-cdn.s3.amazonaws.com/colors.json';
  * @param compHex filter for complementary color hex code
  * @returns Promise
  */
+
  const fetchColors = async ({ name, hex, compName, compHex }) => { 
   const res = fetch(ENDPOINT);
   /*
