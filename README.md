@@ -1,7 +1,7 @@
-# DCTTecnhicalAssessment
+# DCT Tecnhical Assessment
 Deep-catch Namibia Holdings - Developer Technical Assessment
 
-# Technical Assessment Criteria:
+# Assessment Criteria:
 
 Write a function that:
 - retrieves the colors from the COLORS endpoint (use [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch]))
