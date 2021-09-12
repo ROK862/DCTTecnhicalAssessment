@@ -1,6 +1,6 @@
 # DCT Tecnhical Assessment
-# Deep-catch Namibia Holdings - Developer Technical Assessment
-# Author: Robbins J. Kariseb, ALB Harvard. Senior Software Engineer
+Deep-catch Namibia Holdings - Developer Technical Assessment
+Author: Robbins J. Kariseb, ALB Harvard. Senior Software Engineer
 
 # Assessment Criteria:
 
